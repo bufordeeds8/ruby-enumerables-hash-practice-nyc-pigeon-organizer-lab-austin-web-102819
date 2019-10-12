@@ -9,4 +9,3 @@ newHash = {
   :key7 => {}
 }
 end
-
