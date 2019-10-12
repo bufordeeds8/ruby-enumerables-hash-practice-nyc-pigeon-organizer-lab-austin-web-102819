@@ -6,6 +6,6 @@ newHash = {
   :key4 => {},
   :key5 => {},
   :key6 => {},
-  :key7 => {}
+  :key7 => {},
 }
 end
